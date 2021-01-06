@@ -2,4 +2,4 @@
 
 - Programming Lab in 2017 1st semester with C
 
-- TermProject is RunGame
+- TermProject is RunGame like Google Running dinosaur Game
